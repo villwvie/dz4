@@ -1,0 +1,39 @@
+* {
+   margin: 0;
+   padding:0;
+}
+
+
+.wrapper {
+   width: 400px;
+   margin: 0 auto;
+}
+
+p {
+   text-align: justify;
+   text-indent: 40px;
+   font-family: sans-serif;
+   line-height:30px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+
+}
+
+h1, h2 {
+   text-align:center;
+   color: blue;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+h1{
+   font-size:20px ;
+}
+h2{
+   font-size: 16px;
+}
+b {
+   color: red;
+}
+i {
+   color: blue;
+}
